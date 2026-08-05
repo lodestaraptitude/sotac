@@ -9,7 +9,7 @@ than guess.
 
 SOCOM-inspired. Single HTML file, no build step, no dependencies.
 
-**Play it: [add your GitHub Pages URL here]**
+**Play it: (https://lodestaraptitude.github.io/sotac/)**
 
 ---
 
